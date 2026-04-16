@@ -1,1 +1,0 @@
-const apssword = "admin123";
