@@ -1,0 +1,1 @@
+const apssword = "admin123";
